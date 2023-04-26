@@ -1,4 +1,4 @@
-# vue-masterclass
+# vue 3 forum web application
 
 ## Project setup
 ```
